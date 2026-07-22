@@ -1,11 +1,14 @@
-﻿[![Discord](https://img.shields.io/discord/1319915996789739540?label=chat&logo=discord&style=flat)](https://discord.gg/q4d3ggrFVA)
+[![Discord](https://img.shields.io/discord/1319915996789739540?label=chat&logo=discord&style=flat)](https://discord.gg/q4d3ggrFVA)
 ![Coding hours](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ni/actor-framework/metrics/badge.json)
 
 # 🧩 Actor Framework
 
+<!-- labview-ci:dashboard -->
+## LabVIEW CI
 
+[![LabVIEW CI dashboard](https://img.shields.io/badge/LabVIEW%20CI-dashboard-2ea44f)](https://elijah286.github.io/actor-framework/)
 
-
+LabVIEW CI runs on every pull request. See the [**CI dashboard**](https://elijah286.github.io/actor-framework/) for build status, VI Analyzer results, VI diffs, and mass-compile reports.
 
 > **Actor Framework 2.0.0.18  ·  Released 24 Apr 2025**\
 > *Back-ported from LabVIEW 2024 Q3 for LabVIEW 2020 or later*
