@@ -1,0 +1,266 @@
+[
+  {
+    "sha": "da71ff57850be59b2e179fa44fdf4b8b25d2e8d6",
+    "short": "da71ff5",
+    "message": "Add LabVIEW CI pipeline",
+    "author": "Elijah Kerry",
+    "date": "2026-07-22T11:47:56-05:00",
+    "vi_count": 414
+  },
+  {
+    "sha": "d385e02e4cd42fe1c7dfd602163974f05b7ee6bf",
+    "short": "d385e02",
+    "message": "Recreated changes for the #51 - Cyclic Dependencies (#165)",
+    "author": "Neil Andrew",
+    "date": "2026-05-28T06:32:52+01:00",
+    "vi_count": 414
+  },
+  {
+    "sha": "1dcfb88be46f852f76c1a1808aac414f6dfbe3b8",
+    "short": "1dcfb88",
+    "message": "Tag VIs for localization: (#164)",
+    "author": "shivaCode-2",
+    "date": "2026-05-27T10:32:27+05:30",
+    "vi_count": 414
+  },
+  {
+    "sha": "2ca0773ed9ab8e5898e510f486a60cc4d80b7366",
+    "short": "2ca0773",
+    "message": "State Pattern Actor initial commit.",
+    "author": "justACS",
+    "date": "2025-09-26T11:01:17-05:00",
+    "vi_count": 458
+  },
+  {
+    "sha": "e224979579e1f17a0945804a75e326840931cce6",
+    "short": "e224979",
+    "message": "Can build the AF VI Package locally using only powershell",
+    "author": "Sergio Velderrain",
+    "date": "2025-03-19T15:29:44-07:00",
+    "vi_count": 414
+  },
+  {
+    "sha": "4a0c7e8c470a08846f3af4d916f3c658ddb6b7fc",
+    "short": "4a0c7e8",
+    "message": "Dropping most of the icon editor scripts ported to AF",
+    "author": "Sergio Velderrain",
+    "date": "2025-03-19T14:53:29-07:00",
+    "vi_count": 414
+  },
+  {
+    "sha": "c59f73ad2a6b255027b35a913fba2126b57d1b18",
+    "short": "c59f73a",
+    "message": "Debugging.  Build.",
+    "author": "justACS",
+    "date": "2024-11-08T14:51:23-08:00",
+    "vi_count": 381
+  },
+  {
+    "sha": "42d5acc78776c6afdb59cc4922369e74d75ece08",
+    "short": "42d5acc",
+    "message": "Created Inline SubVI to wrap Inline SubVI node, and protected it with the Message Maker Provider password.  Replaced the",
+    "author": "justACS",
+    "date": "2024-11-08T13:28:27-08:00",
+    "vi_count": 381
+  },
+  {
+    "sha": "0b1ff88de83e5ce02dc4f063f81921f8c551d266",
+    "short": "0b1ff88",
+    "message": "Created AFPP Shared:Resolve Symbolic Paths.vi to wrap ResolveSymbolicPaths restricted node.  Protected this VI with the ",
+    "author": "justACS",
+    "date": "2024-11-08T13:00:11-08:00",
+    "vi_count": 380
+  },
+  {
+    "sha": "c77ead36b284c50e636aa82d1a02a28133f6b80b",
+    "short": "c77ead3",
+    "message": "Replaced relevant protected nodes with Get Project Item from ID.vi.  Removed password protection.",
+    "author": "justACS",
+    "date": "2024-11-08T12:37:36-08:00",
+    "vi_count": 380
+  },
+  {
+    "sha": "8b81599d5bcded119df6eb48c946a90674007730",
+    "short": "8b81599",
+    "message": "Created Get Project Item from ID to wrap Project.ActiveProject and Project.Item From Item ID.   Protected  Get Project I",
+    "author": "justACS",
+    "date": "2024-11-08T12:24:45-08:00",
+    "vi_count": 380
+  },
+  {
+    "sha": "a2561027801f4af0592e2021c19a43d72ae82007",
+    "short": "a256102",
+    "message": "Created Get Linked Files to wrap Linker:Read Info From File.  Protected Get Linked Files with the password for Message M",
+    "author": "justACS",
+    "date": "2024-11-08T10:45:05-08:00",
+    "vi_count": 379
+  },
+  {
+    "sha": "c58d1398b1cbbf9db7f4c088a6c0d196ff0b1373",
+    "short": "c58d139",
+    "message": "Merge branch 'cleanup' into feature/21-merge-legacy-branch-cleanup-into-develop",
+    "author": "sergiov-ni",
+    "date": "2024-11-08T10:31:16-08:00",
+    "vi_count": 378
+  },
+  {
+    "sha": "179d2f607d3ec0f9dfe7e2a0cc5a2843045ea569",
+    "short": "179d2f6",
+    "message": "Wrapped calls to Read Class Ancestry.vi in a Type Specialization Structure.",
+    "author": "justACS",
+    "date": "2024-11-07T09:10:41-08:00",
+    "vi_count": 337
+  },
+  {
+    "sha": "f144eedf958e7fa0eb2ce9c4e971151c5c12823a",
+    "short": "f144eed",
+    "message": "Added VIPM custom actions.",
+    "author": "justACS",
+    "date": "2024-11-07T09:08:29-08:00",
+    "vi_count": 337
+  },
+  {
+    "sha": "af11e1955efddd5f2fc09f3848d8e206307c1d17",
+    "short": "af11e19",
+    "message": "AF Project Provider initial backport.",
+    "author": "justACS",
+    "date": "2024-11-07T09:07:28-08:00",
+    "vi_count": 335
+  },
+  {
+    "sha": "2c3c054dcba081d546bbddfd5e68733063ee4fc4",
+    "short": "2c3c054",
+    "message": "Restored Casting Utility For Actors.vim to the framework.  Restored correct file lists to Pre-Install and Post-Uninstall",
+    "author": "justACS",
+    "date": "2024-10-08T09:45:29-07:00",
+    "vi_count": 150
+  },
+  {
+    "sha": "995f93f4b4acf1c434e4259a9cb22c875abe9e0a",
+    "short": "995f93f",
+    "message": "Merge branch 'main' into cleanup",
+    "author": "justACS",
+    "date": "2024-10-08T08:23:58-07:00",
+    "vi_count": 150
+  },
+  {
+    "sha": "400ea9c53fb7b7372f2dc2806cce384f89df18d9",
+    "short": "400ea9c",
+    "message": "Copied speciatly messages to the Specialty Message folder, and added these copies to Actor Framewor.lvlib or AF Specialt",
+    "author": "justACS",
+    "date": "2024-10-07T15:12:12-07:00",
+    "vi_count": 150
+  },
+  {
+    "sha": "2c7e5e913baa557e64a5ec2b6d3bf597a75f89ca",
+    "short": "2c7e5e9",
+    "message": "Revert Cleanup",
+    "author": "_Not_Sergio_",
+    "date": "2024-10-04T12:16:51-07:00",
+    "vi_count": 109
+  },
+  {
+    "sha": "8b2e5f6a5dbd0556921f71055aa175a0d5f26fcf",
+    "short": "8b2e5f6",
+    "message": "Fixed pre-install and post-uninstall actions.",
+    "author": "justACS",
+    "date": "2024-10-02T14:54:22-07:00",
+    "vi_count": 139
+  },
+  {
+    "sha": "4c07b20f7bb6b2f5ed7eea3769cc1f113462bcec",
+    "short": "4c07b20",
+    "message": "Created merge VIs for Enqueuer and Last Ack constants and controls.  Added Test Launch for Nested Actor Without Caller.v",
+    "author": "justACS",
+    "date": "2024-10-01T14:40:59-07:00",
+    "vi_count": 139
+  },
+  {
+    "sha": "069143e74f65f6d88c94d5dac931615dec476358",
+    "short": "069143e",
+    "message": "Created Actor:Stop Autostop Nested Actors.",
+    "author": "justACS",
+    "date": "2024-09-30T15:08:06-07:00",
+    "vi_count": 134
+  },
+  {
+    "sha": "8ff7a4c6bf79d5a73789fa76d246ebeb73836b75",
+    "short": "8ff7a4c",
+    "message": "Created AF Debug wrappers for the Protected Actor Handle class and Generate Custom Trace VI.  Created sample PPL Build p",
+    "author": "justACS",
+    "date": "2024-08-30T14:41:21-07:00",
+    "vi_count": 126
+  },
+  {
+    "sha": "23643f5870e14a70bec008e4a3c7bec41e99e886",
+    "short": "23643f5",
+    "message": "Cleanup",
+    "author": "justACS",
+    "date": "2024-08-30T12:46:52-07:00",
+    "vi_count": 118
+  },
+  {
+    "sha": "f35fe967f35e4b2e242cb622347aa9aec7cb7e93",
+    "short": "f35fe96",
+    "message": "Moved code on disk.  Added Init VI to Trace Format.",
+    "author": "justACS",
+    "date": "2024-08-30T12:24:05-07:00",
+    "vi_count": 118
+  },
+  {
+    "sha": "26f5eef12c5819a811b9518ad946f8be51bfe593",
+    "short": "26f5eef",
+    "message": "Actor Handle code moved into Actor Framework.lvlib.  Setting the Actor Core name in the registry is now a separate funct",
+    "author": "justACS",
+    "date": "2024-08-30T10:09:53-07:00",
+    "vi_count": 117
+  },
+  {
+    "sha": "4be856de18386546f05d21dd9af18cb1d472e71b",
+    "short": "4be856d",
+    "message": "Moved tracing files on disk.",
+    "author": "justACS",
+    "date": "2024-08-29T16:45:31-07:00",
+    "vi_count": 115
+  },
+  {
+    "sha": "fd6e01bcba05a5472c7dc2238b082ba66eaf330e",
+    "short": "fd6e01b",
+    "message": "Created DETT Format.vi.",
+    "author": "justACS",
+    "date": "2024-08-29T16:44:50-07:00",
+    "vi_count": 115
+  },
+  {
+    "sha": "8182ebf1b368b7cfdc4ffa19016c090d1ffa0719",
+    "short": "8182ebf",
+    "message": "Moved trace generation VIs from AF Debug.lvlib to Actor Framework.lvlib.  Created Trace Format.lvclass and AF Trace Queu",
+    "author": "justACS",
+    "date": "2024-08-29T16:13:32-07:00",
+    "vi_count": 114
+  },
+  {
+    "sha": "3fa24c633965d1e87eb47838867a4478c00f06f7",
+    "short": "3fa24c6",
+    "message": "Created Post-Uninstall Custom Action for AF Core.  Updated package build spec to use custom actions.",
+    "author": "justACS",
+    "date": "2024-08-23T14:32:40-07:00",
+    "vi_count": 109
+  },
+  {
+    "sha": "ab0487a3bcd6daf1b07e6e31e12fcb72aefb38ff",
+    "short": "ab0487a",
+    "message": "Created Pre-Install Custom Action for AF Core.",
+    "author": "justACS",
+    "date": "2024-08-23T12:39:09-07:00",
+    "vi_count": 107
+  },
+  {
+    "sha": "7cc95abc0e83a66e4e6b77ff2fa680d72adf4d9f",
+    "short": "7cc95ab",
+    "message": "Initial commit.",
+    "author": "justACS",
+    "date": "2024-08-23T09:13:56-07:00",
+    "vi_count": 104
+  }
+]
