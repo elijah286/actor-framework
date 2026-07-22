@@ -1,0 +1,25 @@
+{
+  "platform": "windows",
+  "files": [
+    {
+      "file": "Providers/AddActorInterface/CreateNewWizard_IncludeItem.vi",
+      "type": "modified",
+      "report": "Providers-AddActorInterface-CreateNewWizard_IncludeItem.vi/index.html"
+    },
+    {
+      "file": "Providers/MessageMakerProvider/AFPP Shared/Root Actor Class Is Loaded.vi",
+      "type": "added",
+      "report": "Providers-MessageMakerProvider-AFPP_Shared-Root_Actor_Class_Is_Loaded.vi/index.html"
+    },
+    {
+      "file": "Providers/MessageMakerProvider/_Message Maker/_support/Is Actor Class or Interface.vi",
+      "type": "modified",
+      "report": "Providers-MessageMakerProvider-_Message_Maker-_support-Is_Actor_Class_or_Interface.vi/index.html"
+    },
+    {
+      "file": "Providers/MessageMakerProvider/_Message Maker/_support/Root Actor Class Is Loaded.vi",
+      "type": "deleted",
+      "report": "Providers-MessageMakerProvider-_Message_Maker-_support-Root_Actor_Class_Is_Loaded.vi/index.html"
+    }
+  ]
+}
