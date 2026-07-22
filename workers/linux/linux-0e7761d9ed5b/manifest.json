@@ -1,0 +1,21 @@
+{
+  "schema": 2,
+  "platform": "linux",
+  "version": "linux-0e7761d9ed5b",
+  "labview_version": "2026",
+  "base_image": "ghcr.io/elijah286/labview-ci-with-containers-labview:linux-2026",
+  "base_digest": "sha256:5e7ac3e27ca98a3d9e94fdbfa3e451e1a914d0e7bffd602ef54cb3a065c5bc44",
+  "seed_image": "",
+  "seed_digest": "",
+  "worker_layer": "",
+  "copied_from_base": false,
+  "image_ref": "ghcr.io/elijah286/actor-framework-labview:linux-0e7761d9ed5b",
+  "build_date": "2026-07-22T16:48:18Z",
+  "git_sha": "da71ff57850be59b2e179fa44fdf4b8b25d2e8d6",
+  "run_url": "https://github.com/elijah286/actor-framework/actions/runs/29939590382",
+  "vipc": [],
+  "vipm_raw": "",
+  "vipm_packages": [],
+  "nipkg_raw": "",
+  "nipkg_packages": []
+}
