@@ -1,0 +1,71 @@
+{
+ "meta": {
+  "sha": "d385e02e4cd42fe1c7dfd602163974f05b7ee6bf",
+  "short": "d385e02",
+  "platform": "windows",
+  "repo": "elijah286/actor-framework",
+  "pages_url": "https://elijah286.github.io/actor-framework",
+  "snap_base": "https://elijah286.github.io/actor-framework/vi-snapshots/",
+  "dash_url": "https://elijah286.github.io/actor-framework/",
+  "labview_version": "2026",
+  "tools": [],
+  "commit": {
+   "message": "Recreated changes for the #51 - Cyclic Dependencies (#165)",
+   "author": "Neil Andrew",
+   "date": "2026-05-28T11:02:52+05:30"
+  },
+  "generated_utc": "2026-07-22 17:15 UTC"
+ },
+ "summary": {
+  "tests": 0,
+  "passed": 0,
+  "failed": 0,
+  "errored": 0,
+  "skipped": 0,
+  "percent": 0,
+  "status": "empty",
+  "duration": 0.0
+ },
+ "status_order": [
+  "failed",
+  "error",
+  "skipped",
+  "passed"
+ ],
+ "status_meta": {
+  "failed": {
+   "label": "Failed",
+   "color": "#da3633",
+   "blurb": "An assertion failed."
+  },
+  "error": {
+   "label": "Errored",
+   "color": "#bb8009",
+   "blurb": "The test raised an unexpected error."
+  },
+  "skipped": {
+   "label": "Skipped",
+   "color": "#6e7681",
+   "blurb": "The test was skipped."
+  },
+  "passed": {
+   "label": "Passed",
+   "color": "#2ea043",
+   "blurb": "The test passed."
+  }
+ },
+ "platforms": [
+  {
+   "id": "windows",
+   "url": null
+  },
+  {
+   "id": "linux",
+   "url": "linux/results.json"
+  }
+ ],
+ "suites": [],
+ "tooling": {
+  "missing": []
+ }
+}
