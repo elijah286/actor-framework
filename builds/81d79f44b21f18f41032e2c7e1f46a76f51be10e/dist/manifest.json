@@ -1,0 +1,47 @@
+{
+    "repo":  "elijah286/actor-framework",
+    "sha":  "81d79f44b21f18f41032e2c7e1f46a76f51be10e",
+    "ref":  "refs/heads/develop",
+    "platform":  "windows",
+    "arch":  "AMD64",
+    "labview_version":  "LabVIEW 2026",
+    "built_at":  "2026-07-22T17:07:26Z",
+    "specs":  [
+                  {
+                      "project":  "Core\\AF Debug PPL Build.lvproj",
+                      "name":  "AF Debug PPL",
+                      "type":  "Packed Library",
+                      "target":  "My Computer",
+                      "status":  "built",
+                      "outputs":  [
+
+                                  ],
+                      "message":  "Built, but no output files were located (destination dir: \u0027C:\\workspace\\builds\\AF Debug PPL Build\\AF Debug PPL\u0027).",
+                      "duration":  32.7
+                  },
+                  {
+                      "project":  "Core\\AF PPL Build.lvproj",
+                      "name":  "AF PPL",
+                      "type":  "Packed Library",
+                      "target":  "My Computer",
+                      "status":  "built",
+                      "outputs":  [
+
+                                  ],
+                      "message":  "Built, but no output files were located (destination dir: \u0027C:\\workspace\\builds\\AF PPL Build\\AF PPL\u0027).",
+                      "duration":  9.4
+                  },
+                  {
+                      "project":  "Tooling\\CI CD.lvproj",
+                      "name":  "VIPM Install support",
+                      "type":  "Packed Library",
+                      "target":  "My Computer",
+                      "status":  "failed",
+                      "outputs":  [
+
+                                  ],
+                      "message":  "ExecuteBuildSpec exited 2",
+                      "duration":  5.4
+                  }
+              ]
+}
