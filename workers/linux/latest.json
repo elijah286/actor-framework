@@ -1,7 +1,7 @@
 {
-  "version": "linux-0e7761d9ed5b",
+  "version": "linux-a6fd4859380e",
   "platform": "linux",
-  "manifest_url": "https://elijah286.github.io/actor-framework/workers/linux/linux-0e7761d9ed5b/manifest.html",
-  "build_date": "2026-07-22T16:48:18Z",
+  "manifest_url": "https://elijah286.github.io/actor-framework/workers/linux/linux-a6fd4859380e/manifest.html",
+  "build_date": "2026-08-01T05:23:30Z",
   "git_sha": "da71ff57850be59b2e179fa44fdf4b8b25d2e8d6"
 }
