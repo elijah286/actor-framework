@@ -4,15 +4,15 @@
   "version": "linux-a6fd4859380e",
   "labview_version": "2026",
   "base_image": "nationalinstruments/labview:latest-linux",
-  "base_digest": "ghcr.io/elijah286/actor-framework-labview@sha256:c88e4fe5bfb907d57d78366d849a38cd1e6f757189f9b631cef432060c7de40d",
+  "base_digest": "ghcr.io/elijah286/actor-framework-labview@sha256:594d36005208de0b321250f0569cbde9fbadb78dbb50f87caf157d4dd0af1b98",
   "seed_image": "",
   "seed_digest": "",
   "worker_layer": "",
   "copied_from_base": false,
   "image_ref": "ghcr.io/elijah286/actor-framework-labview:linux-a6fd4859380e",
-  "build_date": "2026-09-01T09:24:49Z",
+  "build_date": "2026-10-01T10:55:55Z",
   "git_sha": "da71ff57850be59b2e179fa44fdf4b8b25d2e8d6",
-  "run_url": "https://github.com/elijah286/actor-framework/actions/runs/33490164945",
+  "run_url": "https://github.com/elijah286/actor-framework/actions/runs/36850248856",
   "vipc": [
     {
       "file": "Dependencies.vipc",
