@@ -1228,15 +1228,6 @@
       "dep_only": false
     },
     {
-      "sha": "e2ee1a6108d3b5b8386cffb9f2974483ed6d24b5",
-      "short": "e2ee1a6",
-      "message": "Merge pull request #7 from ni/revert-5-main",
-      "author": "_Not_Sergio_",
-      "date": "2024-10-02T23:28:12Z",
-      "project": true,
-      "dep_only": false
-    },
-    {
       "sha": "7daca6b36bff92c357c2879237cdb849c4e86dbc",
       "short": "7daca6b",
       "message": "Revert \"Fixed build issue with pre-install and post-uninstall actions.\"",
@@ -1262,15 +1253,6 @@
       "date": "2024-10-02T22:19:22Z",
       "project": true,
       "dep_only": false
-    },
-    {
-      "sha": "8ab43cf9381f428521d7123a7a5d6028dc19b608",
-      "short": "8ab43cf",
-      "message": "Removed bad builds.  Created a working build (fixed pre-install and post-uninstall actions).",
-      "author": "justACS",
-      "date": "2024-10-02T21:57:18Z",
-      "project": true,
-      "dep_only": true
     },
     {
       "sha": "77f8ea23dd79326cfd4d4e9585bc4bedc69c1148",
@@ -1327,15 +1309,6 @@
       "dep_only": false
     },
     {
-      "sha": "afdcf2bc3d9242c4d43c4da0e5794fcbff3152dd",
-      "short": "afdcf2b",
-      "message": "Last build.",
-      "author": "justACS",
-      "date": "2024-08-30T19:57:16Z",
-      "project": true,
-      "dep_only": true
-    },
-    {
       "sha": "23643f5870e14a70bec008e4a3c7bec41e99e886",
       "short": "23643f5",
       "message": "Cleanup",
@@ -1350,15 +1323,6 @@
       "message": "Moved code on disk.  Added Init VI to Trace Format.",
       "author": "justACS",
       "date": "2024-08-30T19:24:05Z",
-      "project": true,
-      "dep_only": false
-    },
-    {
-      "sha": "26f5eef12c5819a811b9518ad946f8be51bfe593",
-      "short": "26f5eef",
-      "message": "Actor Handle code moved into Actor Framework.lvlib.  Setting the Actor Core name in the registry is now a separate function, and is invoked in Actor Core before message handling.  Register Actor has been gutted, and is no longer sent as part of the actor's launch.",
-      "author": "justACS",
-      "date": "2024-08-30T17:09:53Z",
       "project": true,
       "dep_only": false
     },
